@@ -1,4 +1,4 @@
-##📱 Página de Perfis do Instagram
+## 📱 Página de Perfis do Instagram
 
 Uma página inspirada na interface de sugestões de perfis do Instagram, desenvolvida com HTML e CSS durante meus estudos em desenvolvimento web.
 
