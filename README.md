@@ -4,7 +4,7 @@ Uma página inspirada na interface de sugestões de perfis do Instagram, desenvo
 
 📸 Preview
 
-![Preview do Projeto](preview (2).png)
+![Preview do projeto](preview.png)
 
 
 
